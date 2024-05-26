@@ -78,7 +78,7 @@ export default {
 
   progress::-webkit-progress-value {
     background-color: blue; /* Color of the progress */
-    background-image: url('src/assets/stoneBrick.png');
+    background-image: url('/src/assets/stoneBrick.png');
   }
 
     @media only screen and (max-width: 800px){

@@ -39,7 +39,7 @@
     cursor: pointer;
     background: none;
     border: none;
-    background-image: url(src/assets/rock.png);
+    background-image: url(/src/assets/rock.png);
     width: 35%;
     aspect-ratio: 1/1;
     background-size: cover;

@@ -36,7 +36,7 @@ const { inventory: inventoryItems } = toRefs(inventoryStore)
   flex-direction: column;
   align-items: center;
   background-color: white;
-  background-image: url('src/assets/woodTexture.png');
+  background-image: url('/src/assets/woodTexture.png');
   background-size: cover;
 }
 header{
@@ -52,7 +52,7 @@ header{
   left: 0;
 }
 h2{
-  background-image: url('src/assets/woodSign.png');
+  background-image: url('/src/assets/woodSign.png');
   width: 50%;
   height: 70px;
   display: flex;
@@ -71,7 +71,7 @@ p{
   font-size: 1.5rem;
 }
 p>div{
-  background-image: url('src/assets/rockIcon.png');
+  background-image: url('/src/assets/rockIcon.png');
   height: 50px;
   width: 50px;
   background-size: cover;
